@@ -28,17 +28,16 @@ Education: B.Tech Computer Science Engineering
 Interests:
   - Cybersecurity
   - Python Development
-  - Digital Marketing
-  - Automation
-  - AI Prompt Engineering
+  - Ethical hacking
+  - Data Structures
+  - Java
 Goal:
-  Build secure, intelligent and impactful software.
+  Build secure, efficient and impactful software.
 ```
 
 - 🔐 Learning Ethical Hacking & Network Security
 - 🐍 Building Python projects
 - 🌐 WordPress & Web Development
-- 📈 Meta Ads • Google Ads • SEO • Content Strategy
 - ⚡ Always exploring new technologies
 
 ---
@@ -82,12 +81,12 @@ Goal:
 
 # 🛠 Featured Skills
 
-| 🔹 Development | 🔹 Security | 🔹 Marketing |
-|---------------|-------------|--------------|
-| Python | Linux | Meta Ads |
-| SQLite | Networking | Google Ads |
-| Web Development | Web Security | SEO |
-| Automation | Ethical Hacking | Content Strategy |
+| 🔹 Development | 🔹 Security |
+|---------------|-------------|
+| Python | Linux |
+| SQLite | Networking |
+| Web Development | Web Security |
+| Automation | Ethical Hacking |
 
 ---
 
@@ -96,7 +95,6 @@ Goal:
 - 🔐 Cybersecurity Tools
 - 🐍 Python Automation
 - 🌐 Web Applications
-- 📊 Digital Marketing Portfolio
 - 🤖 AI Utilities
 
 ---
