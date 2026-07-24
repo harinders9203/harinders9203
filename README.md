@@ -195,10 +195,13 @@ Python honeypot, Snort IDS rules, packet analysis and threat detection.
 </p>
 
 ---
+## 🧊 3D Contributions
 
-# 🐍 Contribution Snake
+<p align="center">
 
-> Configure the **Platane/snk** GitHub Action to display an animated snake that eats your contributions.
+<img src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</p>
 
 ---
 
