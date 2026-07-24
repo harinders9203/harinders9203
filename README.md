@@ -186,11 +186,11 @@ Python honeypot, Snort IDS rules, packet analysis and threat detection.
 
 ---
 
-# 💬 Dev Quote
+# 🔐 Cybersecurity Wisdom
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://readme-daily-quotes.vercel.app/api?theme=dark&category=technology"/>
 
 </p>
 
