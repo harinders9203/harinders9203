@@ -137,9 +137,19 @@ Goal:
 
 # 🏆 GitHub Trophies
 
+## 📊 Profile Summary
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=harinders9203&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harinders9203&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harinders9203&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinders9203&theme=tokyonight"/>
 
 </p>
 
